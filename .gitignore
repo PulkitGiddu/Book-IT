@@ -1,0 +1,50 @@
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build
+target/
+build/
+dist/
+*.class
+
+# Environment & Credentials
+application-dev.properties
+application.properties
+.env
+.env.local
+*.key
+*.pem
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependencies
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Maven
+*.jar
+*.war
+*.ear
+.m2/
+
+# Temp files
+*.tmp
+*.bak
+
